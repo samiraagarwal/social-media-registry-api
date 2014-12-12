@@ -4,7 +4,7 @@ Check out this API documentation at http://gsa.github.io/social-media-registry-a
 
 Thanks to the tech team of the [Consumer Financial Protection Bureau](https://cfpb.github.io) for building great API documentation that is available as open source.  
 
-You can use [DOCter](https://github.com/cfpb/DOCter) to build documentation sites similar to this one.
+You can use [DOCter](https://github.com/cfpb/DOCter) to build documentation sites similar to this one.  
 
 
 
